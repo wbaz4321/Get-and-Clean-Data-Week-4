@@ -1,5 +1,5 @@
 
-RunAnalysis <- function()
+runa_analysis <- function()
 {
 ## load useful packages in
 library(dplyr)
