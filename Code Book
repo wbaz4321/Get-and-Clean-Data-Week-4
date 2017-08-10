@@ -1,4 +1,5 @@
 # Code book of the scripts
+
 train_x: a data frame that contains values of 561 variables of train data;
 
 train_y: a vector that contains the returned activity value of train data;
